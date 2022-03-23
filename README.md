@@ -4,7 +4,6 @@ This repository is used to document my journey on getting a better foundational 
 ## References
 
  - https://www.youtube.com/user/mycodeschool
-
  - https://www.youtube.com/c/MichaelVandi/playlists
-
  - https://github.com/donamj/Interview-Prep
+ - https://www.youtube.com/user/TheOresoft
